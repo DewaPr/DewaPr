@@ -1,6 +1,6 @@
 ### Hi there, I'm Dewa Pramudya! 👋
 
-I am an **Electrical Engineer** working in Product Development at **Polygon Cycle Group**. My passion lies at the intersection of **Power Electronics**, **Electric Vehicle Systems**, and **Autonomous Control**.
+I am an **Electrical Engineer** specializing in High-Power EV Powertrain Systems. My passion lies at the intersection of **Power Electronics**, **Electric Vehicle Systems**, and **Autonomous Control**.
 
 ---
 
