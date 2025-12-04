@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name]! 👋
+### Hi there, I'm Dewa Pramudya! 👋
 
 I am an **Electrical Engineer** working in Product Development at **Polygon Cycle Group**. My passion lies at the intersection of **Power Electronics**, **Electric Vehicle Systems**, and **Autonomous Control**.
 
