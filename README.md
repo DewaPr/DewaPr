@@ -25,5 +25,5 @@ I spend my free time designing and building high-power electronics.
 * **[Automated Mobile Robot (AMR)](https://github.com/DewaPr/Panasonic-Automated-Mobile-Robot):** Developed and deployed a custom indoor navigation robot for **Panasonic Manufacturing**.
 
 ---
-**[My LinkedIn](https://www.linkedin.com/in/dewapramudya):** Dewa Pramudya Istiqfariandi
-**My Email:** dewapramudya0@gmail.com
+* **My LinkedIn:** [Dewa Pramudya Istiqfariandi](https://www.linkedin.com/in/dewapramudya)
+* **My Email:** dewapramudya0@gmail.com
