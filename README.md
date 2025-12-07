@@ -1,4 +1,4 @@
-### Hi there, I'm Dewa Pramudya! 👋
+### Hi there, I'm Dewa Pramudya! 
 
 I am an **Electrical Engineer** specializing in High-Power EV Powertrain Systems. My passion lies at the intersection of **Power Electronics**, **Electric Vehicle Systems**, and **Autonomous Control**.
 
@@ -16,7 +16,7 @@ I spend my free time designing and building high-power electronics.
 * **Major Project:** Succesfully built **[Autonomous Electric Vehicles](https://github.com/DewaPr/Autonomous-Waypoint-EV)**.
 
 ### Tech Stack
-* **Hardware:** Altium Designer, KiCad, High-Power PCB Design (IGBT/SiC).
+* **Hardware:** STM32CubeIde, PlatformIO, EasyEda Designer, High-Power PCB Design (IGBT/SiC), Industrial PCB Design.
 * **Firmware:** C/C++, STM32 (HAL/LL), ESP-IDF, FreeRTOS.
 * **Control Theory:** FOC, SVPWM, PID, Digital Signal Processing.
 * **Robotics:** ROS, LiDAR Navigation, Sensor Fusion.
