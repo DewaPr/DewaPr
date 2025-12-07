@@ -4,25 +4,26 @@ I am an **Electrical Engineer** specializing in High-Power EV Powertrain Systems
 
 ---
 
-### 🔭 Current Research & Side Projects
+### Current Research & Side Projects
 I spend my free time designing and building high-power electronics.
 * **[7.5kW Asynchronous Motor Inverter](https://github.com/DewaPr/7.5kW-Asynchronous-SVPWM-Inverter)**: A custom SVPWM motor driver using STM32.
 * **[Advanced 15-70S LiFePO4 BMS](https://github.com/DewaPr/Advanced-15-70S-LiFePO4-BMS)**: A modular Battery Management System for high-voltage LiFePO4 packs.
 * **[2.5kW Onboard EV Charger](https://github.com/DewaPr/2.5kW-Synchronous-Buck-EV-Charger)**: An active PFC + Synchronous Buck converter design.
 
-### 🎓 Academic Highlights
+### Academic Highlights
 * **IEEE Published Author:** "[The Design and Implementation of a Waypoint-Based Autonomous Control System on a Low-Level Controller for Self-Driving Vehicles.](https://doi.org/10.1109/ICVEE59738.2023.10348231)"
 * **B.Eng in Electrical Engineering:** Electronic Engineering Polytechnic Institute of Surabaya (EEPIS).
-* **Major Project:** Built one of the first **Autonomous Electric Vehicles** in Indonesia.
+* **Major Project:** Succesfully built **[Autonomous Electric Vehicles](https://github.com/DewaPr/Autonomous-Waypoint-EV)**.
 
-### 🛠 Tech Stack
+### Tech Stack
 * **Hardware:** Altium Designer, KiCad, High-Power PCB Design (IGBT/SiC).
 * **Firmware:** C/C++, STM32 (HAL/LL), ESP-IDF, FreeRTOS.
 * **Control Theory:** FOC, SVPWM, PID, Digital Signal Processing.
 * **Robotics:** ROS, LiDAR Navigation, Sensor Fusion.
 
-### 💼 Industry Experience
-* **[Automated Mobile Robot (AMR)](https://github.com/DewaPr/Panasonic-Automated-Mobile-Robot):** Developed and deployed a custom indoor navigation robot for **Panasonic Manufacturing**.
+### Industry Experience
+* **[Automated Mobile Robot (AMR)](https://github.com/DewaPr/Panasonic-Automated-Mobile-Robot):** Developed and deployed a custom indoor navigation robot for **PT. Panasonic Manufacturing Indonesia**.
+* **Smart Streetlight Monitoring System (Smart-PJU):** Developed and implemented a Smart Street Light Control System designed to enhance energy efficiency and urban infrastructure, Deployed in Gresik at 2022, Indonesia. Associate with **PT. Telkom Indonesia**.
 
 ---
 * **My LinkedIn:** [Dewa Pramudya Istiqfariandi](https://www.linkedin.com/in/dewapramudya)
